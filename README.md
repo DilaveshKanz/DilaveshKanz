@@ -1,5 +1,7 @@
 ### Hi, I'm Dilavesh
 
+*Making AI happen. For real.*
+
 I build AI and software and get it working for the people who use it. I study Data Science and Applications at **IIT Madras** and work as a Software Developer Intern at **CODE, IIT Madras**, where I finished and launched a course planner now live in four degree programmes.
 
 I am looking for a **Forward Deployed Engineer internship**. I am also open to AI engineering, ML, software, intelligent systems, robotics, and autonomous-agent roles.
