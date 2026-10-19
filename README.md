@@ -24,9 +24,7 @@ I am open to AI engineering, ML, software, intelligent systems, robotics, and au
 
 **Tools**
 
-Python · PyTorch · YOLO · scikit-learn · NumPy · pandas
-FastAPI · Flask · NestJS · Next.js · Vue.js
-PostgreSQL · Redis · Celery · BigQuery
+Python · PyTorch · YOLO · scikit-learn · NumPy · pandas · FastAPI · Flask · NestJS · Next.js · Vue.js · PostgreSQL · Redis · Celery · BigQuery
 
 **Elsewhere**
 
