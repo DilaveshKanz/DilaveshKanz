@@ -1,8 +1,8 @@
 ### Hi, I'm Dilavesh
 
-I train computer-vision models and build the web apps that use them. I study Data Science and Applications at **IIT Madras** and work as a Software Developer Intern at **CODE, IIT Madras**.
+I build AI and software and get it working for the people who use it. I study Data Science and Applications at **IIT Madras** and work as a Software Developer Intern at **CODE, IIT Madras**, where I finished and launched a course planner now live in four degree programmes.
 
-I am open to AI engineering, ML, software, intelligent systems, robotics, and autonomous-agent opportunities.
+I am looking for a **Forward Deployed Engineer internship**. I am also open to AI engineering, ML, software, intelligent systems, robotics, and autonomous-agent roles.
 
 **Now**
 
