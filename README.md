@@ -57,8 +57,8 @@ I am looking for a **Forward Deployed Engineer internship**. I am also open to A
 ### Toolbox
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,pytorch,sklearn,fastapi,flask,nestjs,nextjs,react,vue,postgres,redis,gcp,git&theme=dark&perline=15">
-  <img alt="Python, TypeScript, JavaScript, PyTorch, scikit-learn, FastAPI, Flask, NestJS, Next.js, React, Vue, PostgreSQL, Redis, Google Cloud, Git" src="https://skillicons.dev/icons?i=py,ts,js,pytorch,sklearn,fastapi,flask,nestjs,nextjs,react,vue,postgres,redis,gcp,git&theme=light&perline=15">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Cpytorch%2Csklearn%2Cfastapi%2Cflask%2Cnestjs%2Cnextjs%2Creact%2Cvue%2Cpostgres%2Credis%2Cgcp%2Cgit&theme=dark&perline=15">
+  <img alt="Python, TypeScript, JavaScript, PyTorch, scikit-learn, FastAPI, Flask, NestJS, Next.js, React, Vue, PostgreSQL, Redis, Google Cloud, Git" src="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Cpytorch%2Csklearn%2Cfastapi%2Cflask%2Cnestjs%2Cnextjs%2Creact%2Cvue%2Cpostgres%2Credis%2Cgcp%2Cgit&theme=light&perline=15">
 </picture>
 
 ### Contributions
