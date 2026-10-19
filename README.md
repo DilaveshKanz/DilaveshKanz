@@ -16,6 +16,7 @@ I am open to AI engineering, ML, software, intelligent systems, robotics, and au
 |---|---|---|
 | [AltiMap](https://github.com/ManasBytes/altimap) | Building heights and land cover from one aerial image, rendered as a 3D city. Team RMSE 5.23 → 4.99 m on 2,861 held-out tiles. | SIH 2026 · team · ongoing |
 | FieldPilot AI | Phone-camera safety for construction sites: pose, safety gear and proximity alerts. I trained and fine-tuned the safety-gear detector. | Kaya AI Hackathon 2026 · finalist |
+| Live Dress Try-On | A webcam mirror that shows you wearing a dress while you move. Pose and segmentation every frame, generated garment keyframes carried to the live pose. | Personal prototype · ongoing |
 | Course Planner | Took over a half-built academic planner and launched it. Now live for four IIT Madras BS programmes. | CODE, IIT Madras |
 | Paradox Fest Platform | Events, versioned registration forms, attendance and exports for the IIT Madras BS fest. | Paradox WebOps |
 | DealFlow360 | Sales and fulfilment platform. Fixed duplicate shipment notifications under concurrent requests. | Odoo Hackathon 2026 · finalist |
